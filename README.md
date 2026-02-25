@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Phát Đào, a Cybersecurity student based in Vietnam.
+I'm Phát Đào, a Cybersecurity Student based in Vietnam.
 
 I enjoy working with data, specifically using SQL.
 
