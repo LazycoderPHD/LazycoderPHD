@@ -11,7 +11,7 @@ My main tech stack is SQL, C#, and Git. My favorite tools are GitHub, SQL Server
 
 I’ve built several public repos, but privately... it’s probably much more at this point as I continue to dive deeper into Cybersecurity
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,nodejs,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,js,nodejs,mysql)](https://skillicons.dev)
 <!--
 **LazycoderPHD/LazycoderPHD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
